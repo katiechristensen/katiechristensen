@@ -1,6 +1,6 @@
-## Hi, I'm Katie 😃 (she/her)
+<h1 align="center">Hi, I'm Katie 😃 (she/her)</h1>
 
-### Full time student at Western Washington University in Bellingham, WA, USA
+<h3 align="center">Full time student at Western Washington University in Bellingham, WA, USA</h3>
 
 - 🎓  I'm majoring in Computer Science and minoring in Biology at Western Washington University (graduating Spring 2023)
 
@@ -8,7 +8,7 @@
 - :high_brightness:  I plan to get my Master's in Computer Science at Western Washington University (expected graduation Fall 2024)
 
 
-- :telephone:  I'm the Outreach Coordinator for the Association for Gender Inclusion in Computing 
+- 🌸  I'm the Outreach Coordinator for the Association for Gender Inclusion in Computing 
 
 
 - :sparkles:  I'm on the leadership team of the Computer Science Department Mentoring Program
@@ -24,6 +24,5 @@
 
 
 <br />
-<br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 23 29 PM" src="https://user-images.githubusercontent.com/55817515/197364472-7cd2f799-4783-4bc8-879e-6a8ca2c5f4e1.png">](https://www.linkedin.com/in/katie-r-christensen)&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 24 07 PM" src="https://user-images.githubusercontent.com/55817515/197364476-6f01903d-67f2-4c04-a20e-3fb127efe486.png">](https://github.com/katiechristensen)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 40 49 PM" src="https://user-images.githubusercontent.com/55817515/197364859-8688d8f7-6e78-43a2-8997-3d457bcf905d.png">](https://www.linkedin.com/in/katie-r-christensen)&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 40 55 PM" src="https://user-images.githubusercontent.com/55817515/197364868-06cf3cec-354e-4104-be7d-be2420f7d39d.png">](https://github.com/katiechristensen)
