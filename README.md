@@ -22,7 +22,7 @@
 - 💬  Feel free to reach out and say Hi!
 
 
-- 📫  How to reach me: chris90@wwu.edu
+- 📫  How to reach me: christensen.katie00@gmail.com
 
 
 <br />
