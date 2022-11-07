@@ -4,10 +4,10 @@
 
 <img align="right" width="400" alt="Screen Shot 2022-10-22 at 3 51 46 PM" src="https://user-images.githubusercontent.com/55817515/197365138-3998ef17-51ea-4572-85e4-c167100781ef.png">
 
-- 🎓  I'm majoring in Computer Science and minoring in Biology at Western Washington University (graduating Spring 2023)
+- 🎓  I'm majoring in Computer Science and minoring in Biology at Western Washington University (graduating June 2023)
 
 
-- :high_brightness:  I plan to get my Master's in Computer Science at Western Washington University (expected graduation Fall 2024)
+- :high_brightness:  I plan to get my Master's in Computer Science at Western Washington University (expected graduation June 2023)
 
 
 - 🌸  I'm the Outreach Coordinator for the Association for Gender Inclusion in Computing 
