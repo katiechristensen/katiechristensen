@@ -7,7 +7,7 @@
 - 🎓  I'm majoring in Computer Science and minoring in Biology at Western Washington University (graduating June 2023)
 
 
-- :high_brightness:  I plan to get my Master's in Computer Science at Western Washington University (expected graduation June 2023)
+- :high_brightness:  I plan to get my Master's in Computer Science at Western Washington University (expected September 2023 - June 2024)
 
 
 - 🌸  I'm the Outreach Coordinator for the Association for Gender Inclusion in Computing 
