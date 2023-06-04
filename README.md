@@ -10,7 +10,7 @@
 - 🎓 I graduated with a BS in Computer Science and minor in Biology from Western Washington University in June 2023
 
 
-- :umbrella:  I do machine learning research on climate and weather prediction through [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html)
+- :umbrella:  I do machine learning research on emulating Earth System Models using Diffusion through [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html)
 
 
 - 🌸  I'm the Outreach Coordinator for the Association for Gender Inclusion in Computing 
