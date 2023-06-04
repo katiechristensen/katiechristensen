@@ -33,4 +33,4 @@
 
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 40 49 PM" src="https://user-images.githubusercontent.com/55817515/197364859-8688d8f7-6e78-43a2-8997-3d457bcf905d.png">](https://www.linkedin.com/in/katie-r-christensen)&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 40 55 PM" src="https://user-images.githubusercontent.com/55817515/197364868-06cf3cec-354e-4104-be7d-be2420f7d39d.png">](https://github.com/katiechristensen)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 40 49 PM" src="https://user-images.githubusercontent.com/55817515/197364859-8688d8f7-6e78-43a2-8997-3d457bcf905d.png">](https://www.linkedin.com/in/katie-r-christensen)&nbsp;&nbsp;&nbsp;[<img width="69" alt="Screen Shot 2022-10-22 at 3 40 55 PM" src="https://user-images.githubusercontent.com/55817515/197364868-06cf3cec-354e-4104-be7d-be2420f7d39d.png">](https://github.com/katiechristensen) 
