@@ -13,16 +13,13 @@
 - 🎓 I graduated with a BS in Computer Science and minor in Biology from Western Washington University in June 2023
 
 
-- :umbrella:  I do machine learning research on emulating Earth System Models using Diffusion through [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html)
+- :umbrella:  I do machine learning research to predict energy metrics of proteins with double InDel mutations using transformers through [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html). Check out our latest [paper](https://arxiv.org/abs/2310.13806)!
 
 
-- 🧬 I also do machine learning research on emulating Rosetta for double InDel mutants using Transformer neural networks
+- 🧬 I also do machine learning research for climate science including emulating Earth System Models using Diffusion and emulating the Glocal Change Assessment Model (GCAM) in collaboration with [Pacific Northwest National Laboratory](https://www.pnnl.gov/earth-coastal-science). 
 
 
-- 🌸  I'm the Outreach Coordinator for the Association for Gender Inclusion in Computing 
-
-
-- :sparkles:  I'm on the leadership team of the Computer Science Department Mentoring Program
+- 🌸  I am a Computer Science Department mentor.  
 
 
 - 💬  Feel free to reach out and say Hi!
