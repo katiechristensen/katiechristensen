@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Katie 😃 (she/her)</h1>
+<h1 align="center">Hi, I'm Katie 😃 </h1>
 
-<h3 align="center">Full time student at Western Washington University in Bellingham, WA, USA</h3>
+<h3 align="center">MS in CS at Western Washington University in Bellingham, WA, USA</h3>
 
 <!---
-<img align="right" width="400" alt="ISB_picture" src="https://user-images.githubusercontent.com/55817515/197365138-3998ef17-51ea-4572-85e4-c167100781ef.png"> 
+<img align="right" width="400" alt="Picture of Katie with Seattle background" src="https://user-images.githubusercontent.com/55817515/197365138-3998ef17-51ea-4572-85e4-c167100781ef.png"> 
  --->
 
-<img align="right" width="450" alt="graduation_picture" src="https://github.com/katiechristensen/katiechristensen/assets/55817515/34583132-1c41-4c26-a6e6-b181d08c9b5e">
+<img align="right" width="450" alt="Picture of Katie in graduation cap and gown" src="https://github.com/katiechristensen/katiechristensen/assets/55817515/34583132-1c41-4c26-a6e6-b181d08c9b5e">
 
 - :high_brightness: I'm earning my Master's degree in Computer Science at Western Washington University (September 2023 - June 2024)
 
