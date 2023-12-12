@@ -19,14 +19,7 @@
 - 🌎 I do machine learning research for climate science including [emulating Earth System Models](https://www.pnnl.gov/modeling-earth-systems) using Diffusion, and [emulating the Global Change Assessment Model (GCAM)](https://www.pnnl.gov/projects/jgcri) in collaboration with [Pacific Northwest National Laboratory](https://www.pnnl.gov/earth-coastal-science). 
 
 
-- 🌸  I am a Computer Science Department mentor at Western Washington University.  
-
-
-- 💬  Feel free to reach out and say Hi!
-
-
-- 📫  How to reach me: christensen.katie00@gmail.com
-
+- 🌸  I am a Computer Science Department [mentor](https://cs.wwu.edu/cs-mentoring-program) at Western Washington University.  
 
 <br />
 
