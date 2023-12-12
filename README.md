@@ -8,9 +8,9 @@
 
 <img align="right" width="450" alt="Self portrait in graduation cap and gown" src="https://github.com/katiechristensen/katiechristensen/assets/55817515/34583132-1c41-4c26-a6e6-b181d08c9b5e">
 
-- :high_brightness: I'm earning my Master's degree in Computer Science at Western Washington University (September 2023 - June 2024)
+- :high_brightness: I'm earning my Master's degree in Computer Science at Western Washington University (September 2023 - June 2024).
 
-- 🎓 I graduated with a BS in Computer Science and minor in Biology from Western Washington University in June 2023
+- 🎓 I graduated with a BS in Computer Science and minor in Biology from Western Washington University in June 2023.
 
 
 - 🧬  I do machine learning research to predict energy metrics of proteins with double InDel mutations using transformers through [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html). Check out our latest [paper](https://arxiv.org/abs/2310.13806)!
