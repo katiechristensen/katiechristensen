@@ -8,9 +8,9 @@
 <!---
 <img align="right" width="400" alt="Self portrait in graduation cap and gown" src="https://github.com/katiechristensen/katiechristensen/assets/55817515/34583132-1c41-4c26-a6e6-b181d08c9b5e">
  --->
- <img align="right" width="400" alt="Head shot of self" src="https://github.com/user-attachments/assets/e3d7c862-f753-4a96-8a37-4f38d87a0fad">
+ <img align="right" width="350" alt="Head shot of self" src="https://github.com/user-attachments/assets/e3d7c862-f753-4a96-8a37-4f38d87a0fad">
 
-- 📱 I currently work at T-Mobile as a Data & AI Operations Manger. 
+- 📱 I currently work at T-Mobile as a Data & AI Operations Manager.
 
 - :high_brightness: I hold a Master's and Bachelor's degree in Computer Science from Western Washington University, Bellingham, WA.
 
