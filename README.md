@@ -16,7 +16,7 @@
 
 - 🌎 I conducted machine learning (deep learning) research for climate science by [emulating Earth System Models](https://www.pnnl.gov/modeling-earth-systems) using Diffusion, and [emulating the Global Change Assessment Model (GCAM)](https://www.pnnl.gov/projects/jgcri) in collaboration with [Pacific Northwest National Laboratory](https://www.pnnl.gov/earth-coastal-science).
 
-- ✈️ I attended the International Conference on Learning Representations where I presented my paper titled *Diffusion-Based Joint Temperature and Precipitation Emulation of Earth System Models* at the Tackling Climate Change with Machine Learning Workshop in Vienna, Austria in May 2023. Check out my [research here](https://arxiv.org/abs/2404.08797).
+- ✈️ I attended the International Conference on Learning Representations where I presented my paper titled *Diffusion-Based Joint Temperature and Precipitation Emulation of Earth System Models* at the Tackling Climate Change with Machine Learning Workshop in Vienna, Austria in May 2024. Check out my [research here](https://arxiv.org/abs/2404.08797).
 
 - 🧬  I also performed machine learning (deep learning) research to predict energy metrics of proteins with double InDel mutations through [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html). Check out our latest [paper](https://doi.org/10.1093/bioadv/vbae198).
 
